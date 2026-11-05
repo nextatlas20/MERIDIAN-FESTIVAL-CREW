@@ -1,0 +1,9 @@
+volunteer_id,name,team,assigned_shift_id,shift_title,starts_at,preference,valid_request_count,outcome
+VL-017,Mira Sol,AUDIO,SH-P02,Q&A Sound,2072-05-10T15:00:00Z,1,2,ASSIGNED
+VL-004,Theo Park,USHER,SH-A01,Opening Doors,2072-05-10T09:00:00Z,1,1,ASSIGNED
+VL-029,Inez Cole,AUDIO,SH-A02,Morning Sound,2072-05-10T09:30:00Z,1,1,ASSIGNED
+VL-011,Ravi Shah,ACCESS,SH-A03,Caption Desk,2072-05-10T10:00:00Z,1,1,ASSIGNED
+VL-036,Nia Brooks,USHER,SH-P01,Matinee Doors,2072-05-10T13:00:00Z,2,2,ASSIGNED
+VL-021,Owen Li,ACCESS,-,-,-,-,1,WAITLIST
+VL-043,Sara Vale,USHER,SH-P01,Matinee Doors,2072-05-10T13:00:00Z,1,2,ASSIGNED
+VL-052,Jun Bell,USHER,-,-,-,-,0,NO_REQUEST
